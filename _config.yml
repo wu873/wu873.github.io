@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "我是福州大学24级的计算机科学与技术的学生，我爱好田径运动。代码能力比较一般，平常基本使用ai解决大部分问题，没有做过什么大的项目。未来有考研意图。"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
