@@ -3,6 +3,4 @@ permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
 --我是福州大学24级的计算机科学与技术的学生，我爱好田径运动。代码能力比较一般，平常基本使用ai解决大部分问题，没有做过什么大的项目。未来有考研意图。
