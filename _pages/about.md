@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
+title: "个人简介"
+author_profile: 林复彬
 redirect_from: 
   - /about/
   - /about.html
